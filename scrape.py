@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import csv
 
-# Define EE and CS courses based on the given information
+# Define EE and CS courses for categorization
 ee_courses = [215, 216, 230, 270, 320, 311, 312, 320, 330, 334, 351, 370, 373, 411, 413, 414, 418, 419, 420, 421, 423, 425, 427, 429, 430, 434, 452, 455, 460, 461, 463, 470, 473, 530]
 cs_courses = [201, 203, 280, 285, 281, 270, 312, 367, 370, 376, 373, 388, 390, 427, 440, 441, 442, 445, 448, 449, 467, 470, 471, 473, 475, 476, 477, 478, 481, 482, 483, 484, 485, 486, 487, 489, 490, 491, 492, 493, 494, 495, 497]
 
