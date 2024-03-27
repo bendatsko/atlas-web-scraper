@@ -1,0 +1,85 @@
+Course Code,Course Name,Workload Percentage,Increased Interest Percentage,Desire to Take Percentage,Median Grade,Category
+110,Discover Computer Science,33%,67%,67%,A,EE
+183,Elementary Programming Concepts,53%,82%,83%,A,EE
+198,Special Topics,66%,86%,95%,A,EE
+200,Electrical Engineering Systems Design I,23%,70%,59%,A,EE
+201,Computer Science Pragmatics,56%,83%,86%,A+,CS
+203,Discrete Math,57%,50%,39%,B,CS
+215,Introduction to Electronic Circuits,35%,67%,66%,A-,EE
+216,Introduction to Signals and Systems,56%,76%,56%,B+,EE
+230,Engineering Electromagnetics,19%,62%,53%,A-,EE
+270,Introduction to Logic Design,45%,72%,74%,A-,"EE, CS"
+280,Programming and Introductory Data Structures,53%,84%,85%,B+,CS
+281,Data Structures and Algorithms,68%,86%,84%,B+,CS
+285,Practical Programming in Java,35%,73%,76%,A,CS
+298,Special Topics,15%,62%,84%,A,EE
+300,Electrical Engineering Systems Design II,53%,82%,60%,A,EE
+301,Probabilistic Methods in Engineering,8%,50%,36%,B+,EE
+311,Analog Circuits,44%,82%,80%,A-,EE
+312,Digital Integrated Circuits,48%,64%,74%,A,"EE, CS"
+314,"Electrical Circuits, Systems and Applications",60%,46%,33%,A+,EE
+320,Introduction to Semiconductor Devices,8%,68%,58%,A-,EE
+330,Introduction to Antennas and Wireless Systems,11%,78%,81%,A,EE
+334,Principles of Optics,5%,74%,68%,A-,EE
+351,Introduction to Digital Signal Processing,8%,80%,78%,A-,EE
+367,Introduction to Autonomous Robotics,11%,92%,95%,A,CS
+370,Introduction to Computer Organization,30%,74%,63%,B+,"EE, CS"
+373,Introduction to Embedded System Design,63%,88%,87%,A-,"EE, CS"
+376,Foundations of Computer Science,39%,56%,38%,B+,CS
+388,Introduction to Computer Security,25%,73%,80%,A-,CS
+390,Programming Paradigms,9%,96%,83%,B+,CS
+398,Special Topics,43%,87%,89%,A,EE
+402,Computer Programming for Scientists and Engineers,36%,88%,89%,A+,EE
+403,Graduate Foundations of Data Structures and Algorithms,70%,89%,87%,A-,EE
+409,Data Science Seminar,1%,88%,85%,N/A,EE
+410,Patent Fund Eng,13%,68%,65%,A,EE
+411,Microwave Circuits I,49%,72%,84%,A-,EE
+413,Monolith Amplifier Circuits,20%,81%,89%,A,EE
+414,Intro to MEMS,31%,73%,75%,A-,EE
+417,Electrical Biophysics,24%,76%,80%,A,EE
+418,Power Electronics,62%,74%,68%,A,EE
+419,Electric Machinery and Drives,24%,93%,91%,A-,EE
+421,Properties of Transistors,33%,89%,83%,A-,EE
+423,Micro / Nano Device Fabrication and Characterization,21%,89%,97%,A-,EE
+425,Integrated Microsystems Laboratory,79%,89%,94%,A-,EE
+427,Very Large Scale Integrated Design I,76%,89%,93%,A,"EE, CS"
+428,Introduction to Quantum Nanotechnology,30%,88%,90%,A,EE
+429,Semiconductor Optoelectronic Devices,9%,71%,78%,A-,EE
+430,Wireless Link Design,41%,67%,77%,A-,EE
+434,Principles of Photonics,32%,75%,87%,A-,EE
+438,Adv Lasers Lab,20%,90%,80%,A,EE
+441,Mobile App Development for Entrepreneurs,13%,78%,81%,A,CS
+442,Computer Vision,19%,86%,88%,A,CS
+444,Analysis of Societal Networks,31%,82%,84%,A-,EE
+445,Introduction to Machine Learning,47%,82%,88%,A-,CS
+452,Digital Signal Processing Design Laboratory,48%,82%,86%,A,EE
+455,Wireless Communication Systems,15%,75%,81%,B+,EE
+458,Biomedical Instrumentation and Design,29%,84%,65%,A,EE
+460,Control Systems Analysis and Design,15%,82%,85%,A-,EE
+461,Embedded Control Systems,25%,84%,86%,A,EE
+463,Power Systems Design and Operations,17%,87%,89%,A-,EE
+464,Hands-on Robotics,76%,79%,93%,A,EE
+467,Autonomous Robotics Design Experience,70%,88%,95%,A,CS
+470,Computer Architecture,72%,91%,91%,A-,"EE, CS"
+473,Advanced Embedded Systems,89%,96%,99%,B+,"EE, CS"
+475,Introduction to Cryptography,9%,86%,76%,A-,CS
+476,Data Mining,47%,67%,80%,A,CS
+477,Introduction to Algorithms,30%,76%,79%,A-,CS
+478,Logic Circuit Synthesis and Optimization,19%,70%,72%,A-,CS
+481,Software Engineering,8%,86%,88%,A-,CS
+482,Introduction to Operating Systems,81%,87%,88%,B+,CS
+483,Compiler Construction,35%,88%,91%,A,CS
+484,Database Management Systems,13%,78%,77%,B+,CS
+485,Web Systems,42%,88%,90%,B+,CS
+486,Information Retrieval and Web Search,3%,78%,80%,A-,CS
+487,Introduction to Natural Language Processing,36%,81%,85%,A,CS
+489,Computer Networks,16%,80%,89%,A-,CS
+490,Programming Languages,30%,75%,74%,B+,CS
+491,Introduction to Distributed Systems,59%,95%,95%,A-,CS
+492,Introduction to Artificial Intelligence,16%,69%,81%,B+,CS
+493,User Interface Development,3%,76%,78%,A,CS
+494,Computer Game Design and Development,83%,88%,95%,A,CS
+495,Accessible Computing,14%,73%,80%,A,CS
+496,Major Design Experience-Professionalism,13%,39%,28%,A,EE
+497,Human-Centered Software Design and Development,3%,78%,77%,A,CS
+498,Special Topics,37%,87%,90%,A,EE
